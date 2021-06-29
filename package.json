@@ -1,0 +1,24 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Generate background for your website.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lata-clabs/background-generator.git"
+  },
+  "keywords": [
+    "background-generator",
+    "gradient",
+    "rbg"
+  ],
+  "author": "lata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lata-clabs/background-generator/issues"
+  },
+  "homepage": "https://github.com/lata-clabs/background-generator#readme"
+}
